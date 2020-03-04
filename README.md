@@ -1,2 +1,8 @@
 # PiHole
+
+
+
+jemig
+
 hoi
+
