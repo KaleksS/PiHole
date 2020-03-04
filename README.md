@@ -1,8 +1,1 @@
 # PiHole
-
-
-
-jemig
-
-hoi
-
